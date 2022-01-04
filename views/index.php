@@ -26,6 +26,7 @@
 				<h4 class="modal-title">Lista de Estudiantes</h4>
 			</div>
 			<div class="modal-body table-responsive">
+				<a href="../views/sell_product.php" class="btn btn-success">Vender Producto</a>
 				<a href="../views/new_product.php" class="btn btn-success">Crear Producto</a>
 				<table id="example1" class="table table-bordered table-hover">
 					<thead>
